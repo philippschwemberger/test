@@ -1,3 +1,3 @@
-console.log("testestest");
+var x = 10;
 
-console.log(1+2);
+console.log(x *2);
